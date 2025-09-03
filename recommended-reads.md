@@ -5,4 +5,5 @@
 * [James Stanier, The Engineering Manager](https://theengineeringmanager.substack.com)
 * [The Managers’ Guide](https://the.managers.guide/)
 * [Rands in Repose](https://rands.substack.com/)
+* [The modern leader](https://www.modernleader.is/)
  
